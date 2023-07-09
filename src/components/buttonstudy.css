@@ -1,0 +1,39 @@
+.button-study {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: solid 1px white;
+    border-radius: 10px;
+    width: 30vh;
+    height: 10vh;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 24px;
+    gap: 10px;
+    cursor: pointer;
+    margin-left: 30px;
+
+}
+button:hover{
+    transform: scale(1.01);
+    transition: all 0.5s;
+    background-color: rgba(77, 75, 75, 0.5);
+}
+
+@media (max-width: 896px) {
+    .button-study{
+        height: 5vh;
+        width: 10vh;
+        margin-right: 1.5rem;
+    }
+}
+
+@media (min-width: 1000px) {
+    .button-study{
+        height: 7vh;
+        width: 30vh;
+        margin-right: 1.5rem;
+    }
+}

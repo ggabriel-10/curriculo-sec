@@ -1,0 +1,62 @@
+.contato{
+    height: 50vh;
+    margin-top: 30vh;
+    margin-bottom: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around
+}
+.contato__container__item{
+    padding-left: 6vh;
+}
+.contato__container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.contato__container_one{
+    display: flex;
+}
+.contato__container_two{
+    display: flex;
+}
+.contato__container__item > a > img {
+    width: 12vh;
+    height: 12vh;
+}
+
+.contato > p {
+    font-size: 25px;
+    color: white;
+}
+
+.contato > h1{
+    color: white;
+    font-size: 50px;
+}
+
+.contato__container__item:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+@media (max-width: 896px) {
+    .contato__container{
+        flex-direction: column;
+        align-items: center;
+        padding-right: 40px;
+
+    }
+    .contato__container__item > a > img {
+        width: 8vh;
+        height: 8vh;
+        padding-top: 15px;
+
+    }
+    .contato{
+        align-items: center;
+
+    }
+
+}
