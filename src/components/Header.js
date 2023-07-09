@@ -26,7 +26,7 @@ export function Header() {
                             <li><a className='item-navegation' href="#header"onClick={removeClass}>Inicio</a></li>
                             <li><a className='item-navegation' href="#conteudo"onClick={removeClass}>Sobre Mim</a></li>
                             <li><a className='item-navegation' href="#study"onClick={removeClass}>Cursos</a></li>
-                            <li><a className='item-navegation' href="#tecnologias"onClick={removeClass}>Certificados</a></li>
+                            <li><a className='item-navegation' href="#certificados"onClick={removeClass}>Certificados</a></li>
                             <li><a className='item-navegation' href="#contato"onClick={removeClass}>Contato</a></li>
                         </ul>
                     </nav>
