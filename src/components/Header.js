@@ -10,7 +10,7 @@ export function Header() {
             <div>
                 <header className="App-header">
                     <nav className='navegation'>
-                        <img src="https://img.icons8.com/external-others-inmotus-design/344/external-Code-round-icons-others-inmotus-design-4.png" className="App-logo" alt="logo" />
+                        <img src="https://cdn.icon-icons.com/icons2/2072/PNG/512/antivirus_internet_protect_safe_security_shape_shield_icon_127103.png" className="App-logo" alt="logo" />
                         <ul>
                             <li><a className='item-navegation' href="#header">Inicio</a></li>
                             <li><a className='item-navegation' href="#conteudo">Sobre Mim</a></li>

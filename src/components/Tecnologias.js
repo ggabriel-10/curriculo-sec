@@ -1,4 +1,3 @@
-
 import './tecnologias.css';
 
 export function Tecnologias(){
