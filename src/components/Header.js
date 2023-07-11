@@ -16,6 +16,7 @@ export function Header() {
                             <li><a className='item-navegation' href="#conteudo">Sobre Mim</a></li>
                             <li><a className='item-navegation' href="#study">Cursos</a></li>
                             <li><a className='item-navegation' href="#certificados">Certificados</a></li>
+                            <li><a className='item-navegation' href="#experiencias">Experiências</a></li>
                             <li><a className='item-navegation' href="#contato">Contato</a></li>
                         </ul>
                     </nav>
@@ -27,6 +28,7 @@ export function Header() {
                             <li><a className='item-navegation' href="#conteudo"onClick={removeClass}>Sobre Mim</a></li>
                             <li><a className='item-navegation' href="#study"onClick={removeClass}>Cursos</a></li>
                             <li><a className='item-navegation' href="#certificados"onClick={removeClass}>Certificados</a></li>
+                            <li><a className='item-navegation' href="#experiencias"onClick={removeClass}>Experiências</a></li>
                             <li><a className='item-navegation' href="#contato"onClick={removeClass}>Contato</a></li>
                         </ul>
                     </nav>

@@ -1,7 +1,7 @@
 .imagem-projeto-app{
-    width: 40%;
-    height: 40%;
-    border-radius: 20px;
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
     margin-right: 10px;
 }
 .projetos-app{
@@ -28,9 +28,14 @@
 }
 .descrição-projeto-app{
     padding-left: 10px;
+    padding: -2rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    
+    
 }
 
 .descrição-projeto-app dt{
@@ -41,11 +46,19 @@
 
 .descrição-projeto-app dd{
     padding-top: 15px;
-    height: 50px;
+    height: 10%;
+    margin: 1rem;
     margin-bottom: 20px;
     font-size: 17px;
     color: white;
     padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.descrição-projeto-app h3 {
+    padding-bottom: 10px;
 }
 
 @media (max-width: 896px) {
@@ -53,6 +66,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        
     }
     .text-invert{
         display: -webkit-flex;
@@ -63,11 +77,12 @@
         display: flex;
         align-items: center;
         padding-right: 35px;
+        
     }
 
     .imagem-projeto-app{
-        width: 70%;
-        height: 70%;
+        width: 40%;
+        height: 30%;
         border-radius: 20px;
         margin-right: 10px;
     }
@@ -75,7 +90,29 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        padding-top: 50vh;
-        height: 150vh;
+        padding-top: 70vh;
+        height: 130vh;
+    }
+    .descrição-projeto-app dd{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: flex-start;
+    }
+    .descrição-projeto-app h3{
+        width: 100%;
+        flex-wrap: initial;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .descrição-projeto-app p{
+        width: 100%;
+        flex-wrap: initial;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
     }
 }

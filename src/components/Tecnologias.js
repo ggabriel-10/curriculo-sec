@@ -1,5 +1,6 @@
 import './tecnologias.css';
 
+
 export function Tecnologias(){
     return(
         <div className='area-tecnologies' id='certificados'>
