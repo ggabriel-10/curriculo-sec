@@ -33,6 +33,11 @@ export function Contato(){
                     </div>
                 </div>
             </div>
+            
+            <div className="contato__container__language">
+                <img className='img-language' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/255px-Flag_of_Spain.svg.png' alt='spanish'></img>
+                <img className='img-language' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png' alt='england'></img>
+            </div>
         </div>
     )
 }

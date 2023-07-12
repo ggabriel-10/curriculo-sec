@@ -40,6 +40,26 @@
     transition: all 0.5s;
     cursor: pointer;
 }
+.contato__container__language{
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 4rem;
+}
+.img-language{
+    width: 15%;
+    height: 100%;
+    border-radius: 1rem;
+}
+
+.img-language:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+    cursor: pointer;
+}
 
 @media (max-width: 896px) {
     .contato__container{
@@ -57,6 +77,17 @@
     .contato{
         align-items: center;
 
+    }
+
+    .contato__container__language{
+        align-items: flex-end;
+        width: 100%;
+    }
+
+    .img-language{
+        width: 15%;
+        height: 100%;
+        border-radius: 1rem;
     }
 
 }
