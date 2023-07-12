@@ -4,7 +4,7 @@ import './tecnologias.css';
 export function Tecnologias(){
     return(
         <div className='area-tecnologies' id='certificados'>
-            <h1 className='title-tecnologies'>Certificados</h1>
+            <h1 className='title-tecnologies'>Certificates</h1>
             <div className="image-tecnologies">
                 <div className='image-tecnologies-one'>
                     <img className='image-tec' align="center" alt="Azure" height="70" width="80" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>

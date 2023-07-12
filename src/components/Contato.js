@@ -3,8 +3,8 @@ import './contato.css';
 export function Contato(){
     return(
         <div className="contato" id='contato'>
-            <h1 className='contato-title'>Contato</h1>
-            <p>Entre em contato comigo!</p>
+            <h1 className='contato-title'>Contact</h1>
+            <p>Get in touch with me!</p>
             <div className="contato__container">
                 <div className='contato__container_one'>
                     <div className="contato__container__item">
