@@ -1,7 +1,7 @@
-import './tecnologias.css';
+import './certificados.css';
 
 
-export function Tecnologias(){
+export function Certificados(){
     return(
         <div className='area-tecnologies' id='certificados'>
             <h1 className='title-tecnologies'>Certificates</h1>

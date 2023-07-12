@@ -2,7 +2,7 @@ import './App.css';
 import { Conteudo } from './components/Conteudo';
 import { Header } from './components/Header';
 import {Study} from './components/Study';
-import {Tecnologias} from './components/Tecnologias';
+import {Certificados} from './components/Certificados';
 import { Contato } from './components/Contato';
 import { Experiencias } from './components/Experiencias';
 
@@ -13,7 +13,7 @@ function App() {
       <Header />
       <Conteudo />
       <Study />
-      <Tecnologias />
+      <Certificados />
       <Experiencias />
       <Contato/>
     </div>
