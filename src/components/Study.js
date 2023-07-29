@@ -63,13 +63,13 @@ export function Study(){
             </div>
 
             <div className='study-course'>
-                <a href="https://desecsecurity.com/"><img className='icon-study' alt='icon' src='https://scontent.fgru10-1.fna.fbcdn.net/v/t39.30808-6/313403767_492158189599202_1267885706468404848_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nappW5Qx09AAX8nQYYO&_nc_ht=scontent.fgru10-1.fna&oh=00_AfA8DzrUvutB3kVR1FRjCGhd6t5vQfrWuHTKF1hBs-NLrw&oe=64AFFEBC'/></a>
+                <a href="https://desecsecurity.com/"><img className='icon-study' alt='icon' src='https://scontent.fgru10-1.fna.fbcdn.net/v/t39.30808-6/313403767_492158189599202_1267885706468404848_n.png?_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHpUki8ux31OGntr2oUnBgq1-NMUdIgKHLX40xR0iAocgIzcWh8Y65p6aqmZtGQOs2lJXpiOopMwC6o6WcMYYYI&_nc_ohc=HNnfe67B6MkAX8Y4-ZR&_nc_ht=scontent.fgru10-1.fna&oh=00_AfAmtaN_UVpTkndcUonuaSKPnj5gBzrzML-amI1vsIQNHA&oe=64C9B3FC'/></a>
                 <h2>Introduction to Practical Pentesting</h2>
                 <ButtonStudy link='https://desecsecurity.com/academy/introducao-pentest/certificado/1c157c5305cdb42b20334c5039750d61' alt='Certificado' label='Certificate'/>
             </div>
 
             <div className='study-course'>
-                <a href="https://azure.microsoft.com/pt-br/"><img className='icon-study' alt='icon' src='https://scontent.fgru10-1.fna.fbcdn.net/v/t39.30808-6/297746436_466950672108003_4796607216134658666_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JAC3SCt_z2oAX-VJfqa&_nc_ht=scontent.fgru10-1.fna&oh=00_AfBDd-1EU_V7QXG1cC7C50Sqfh1ga2LWG18Wrs-3TavliA&oe=64B098B0'/></a>
+                <a href="https://azure.microsoft.com/pt-br/"><img className='icon-study' alt='icon' src='https://prime.acaditi.com.br/pluginfile.php/1/theme_mb2nl/loadinglogo/1682706960/AcadiTImini.png'/></a>
                 <h2>Network Defense Essentials</h2>
                 <ButtonStudy link='https://prime.acaditi.com.br/mod/customcert/verify_certificate.php?contextid=239641&code=GldGXBKmKN&qrcode=1' alt='Certificado' label='Certificate'/>
             </div>

@@ -14,7 +14,7 @@ export function Certificados(){
                 </div>
                 <div className='image-tecnologies-two'>
                     <img className='image-tec' align="center" alt="Python" height="60" width="100" src="https://www.zadara.com/wp-content/uploads/Zadara_Logo_yel.png"/>
-                    <img className='image-tec' align="center" alt="Node" height="60" width="70" src="https://scontent.fgru10-1.fna.fbcdn.net/v/t39.30808-6/297746436_466950672108003_4796607216134658666_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JAC3SCt_z2oAX-VJfqa&_nc_ht=scontent.fgru10-1.fna&oh=00_AfBDd-1EU_V7QXG1cC7C50Sqfh1ga2LWG18Wrs-3TavliA&oe=64B098B0" />
+                    <img className='image-tec' align="center" alt="Node" height="60" width="70" src="https://prime.acaditi.com.br/pluginfile.php/1/theme_mb2nl/loadinglogo/1682706960/AcadiTImini.png" />
                     
                 </div>
             </div>
