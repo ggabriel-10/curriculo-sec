@@ -51,9 +51,15 @@ export function Study(){
             </div>
 
             <div className='study-course'>
-                <a href="https://www.trendmicro.com/pt_br/business/products/one-platform.html"><img className='icon-study' alt='icon' src={micro}/></a>
+                <a href="https://www.microsoft.com/pt-br/"><img className='icon-study' alt='icon' src={micro}/></a>
                 <h2>Microsoft Certified: Azure Az-900</h2>
                 <ButtonStudy link='https://www.credly.com/badges/2934ef74-a1ec-478b-b883-441b8c3887d8/linked_in_profile' alt='Certificado' label='Certificate'/>
+            </div>
+
+            <div className='study-course'>
+                <a href="https://www.oracle.com/br/cloud/"><img className='icon-study' alt='icon' src='https://avatars3.githubusercontent.com/oracle'/></a>
+                <h2>Oracle Cloud Infrastructure Foundations</h2>
+                <ButtonStudy link='https://catalog-education.oracle.com/ords/certview/sharebadge?id=309BF174963B19F30617AC04B5328C320ABC3C91D5D6E73F173B5A295881496F' alt='Certificado' label='Certificate'/>
             </div>
 
             <div className='study-course'>
@@ -63,7 +69,7 @@ export function Study(){
             </div>
 
             <div className='study-course'>
-                <a href="https://desecsecurity.com/"><img className='icon-study' alt='icon' src='https://scontent.fgru10-1.fna.fbcdn.net/v/t39.30808-6/313403767_492158189599202_1267885706468404848_n.png?_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHpUki8ux31OGntr2oUnBgq1-NMUdIgKHLX40xR0iAocgIzcWh8Y65p6aqmZtGQOs2lJXpiOopMwC6o6WcMYYYI&_nc_ohc=HNnfe67B6MkAX8Y4-ZR&_nc_ht=scontent.fgru10-1.fna&oh=00_AfAmtaN_UVpTkndcUonuaSKPnj5gBzrzML-amI1vsIQNHA&oe=64C9B3FC'/></a>
+                <a href="https://desecsecurity.com/"><img className='icon-study' alt='icon' src='https://media.licdn.com/dms/image/C4E0BAQHCmftccXl7sw/company-logo_200_200/0/1620419908575?e=1699488000&v=beta&t=lT4tHtvAopDXO9_c-34pQmdudMaF4-1ddKu8SGwqm5E'/></a>
                 <h2>Introduction to Practical Pentesting</h2>
                 <ButtonStudy link='https://desecsecurity.com/academy/introducao-pentest/certificado/1c157c5305cdb42b20334c5039750d61' alt='Certificado' label='Certificate'/>
             </div>
