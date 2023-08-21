@@ -2,7 +2,7 @@ import { FaBars } from 'react-icons/fa';
 import {IoClose} from 'react-icons/io5';
 import { addClass } from './add.class';
 import { removeClass } from './remove.class';
-import gmimagem from '../image/gm-imagem.jpeg';
+import gmimagem from '../image/gm-imagem.png';
 
 import '../App.css';
 export function Header() {
