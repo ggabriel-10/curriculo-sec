@@ -17,13 +17,15 @@
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-radius: 20px;
+    border: 1px solid aliceblue;
+    border-radius: 8px;
 }
 
 .icon-study{
     width: 6rem;
     height: 6rem;
     border-radius: 3rem;
+    border: 1px solid aliceblue;
 }
 
 .title-study{
