@@ -2,6 +2,7 @@ import './study.css';
 import ButtonStudy from './ButtonStudy';
 import micro from '../image/micro.png';
 import trend from '../image/trend vision.png';
+import desec from '../image/desec.png';
 
 export function Study(){
     return(
@@ -51,6 +52,12 @@ export function Study(){
             </div>
 
             <div className='study-course'>
+                <a href="https://www.udemy.com/"><img className='icon-study' alt='icon' src='https://pbs.twimg.com/profile_images/1415325711896825858/2cczQq-X_400x400.png'/></a>
+                <h2>SHELL SCRIPT FOR HACKERS</h2>
+                <ButtonStudy link='https://www.udemy.com/certificate/UC-d3823042-a1b9-461a-9a3e-43f9bba5ec56/' alt='Certificado' label='Certificate'/>
+            </div>
+
+            <div className='study-course'>
                 <a href="https://www.microsoft.com/pt-br/"><img className='icon-study' alt='icon' src={micro}/></a>
                 <h2>Microsoft Certified: Azure Az-900</h2>
                 <ButtonStudy link='https://www.credly.com/badges/2934ef74-a1ec-478b-b883-441b8c3887d8/linked_in_profile' alt='Certificado' label='Certificate'/>
@@ -69,7 +76,7 @@ export function Study(){
             </div>
 
             <div className='study-course'>
-                <a href="https://desecsecurity.com/"><img className='icon-study' alt='icon' src='https://media.licdn.com/dms/image/C4E0BAQHCmftccXl7sw/company-logo_200_200/0/1620419908575?e=1699488000&v=beta&t=lT4tHtvAopDXO9_c-34pQmdudMaF4-1ddKu8SGwqm5E'/></a>
+                <a href="https://desecsecurity.com/"><img className='icon-study' alt='icon' src={desec}/></a>
                 <h2>Introduction to Practical Pentesting</h2>
                 <ButtonStudy link='https://desecsecurity.com/academy/introducao-pentest/certificado/1c157c5305cdb42b20334c5039750d61' alt='Certificado' label='Certificate'/>
             </div>

@@ -8,7 +8,7 @@ export function Contato(){
             <div className="contato__container">
                 <div className='contato__container_one'>
                     <div className="contato__container__item">
-                            <a href="mailto:ggabriel.medeiros@hotmail.com" target="_blank" rel="noreferrer">
+                            <a href="mailto:ggabriel.medeiros@protonmail.com" target="_blank" rel="noreferrer">
                                 <img src="https://cdn-icons-png.flaticon.com/512/6711/6711567.png" className="item-contato" alt="E-mail" />
                             </a>
                     </div>
