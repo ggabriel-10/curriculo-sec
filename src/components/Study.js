@@ -1,6 +1,6 @@
 import './study.css';
 import ButtonStudy from './ButtonStudy';
-import micro from '../image/micro.png';
+import micro from '../image/microsoft-certified-azure-fundamentals.png';
 import trend from '../image/trend vision.png';
 import desec from '../image/desec.png';
 import sentinelone from '../image/sentinelone.png';
@@ -60,7 +60,7 @@ export function Study(){
 
             <div className='study-course'>
                 <a href="https://www.microsoft.com/pt-br/"><img className='icon-study' alt='icon' src={micro}/></a>
-                <h2>Microsoft Certified: Azure Az-900</h2>
+                <h2>Microsoft Certified: Azure Fundamentals</h2>
                 <ButtonStudy link='https://www.credly.com/badges/2934ef74-a1ec-478b-b883-441b8c3887d8/linked_in_profile' alt='Certificado' label='Certificate'/>
             </div>
 
