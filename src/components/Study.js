@@ -3,6 +3,7 @@ import ButtonStudy from './ButtonStudy';
 import micro from '../image/micro.png';
 import trend from '../image/trend vision.png';
 import desec from '../image/desec.png';
+import sentinelone from '../image/sentinelone.png';
 
 export function Study(){
     return(
@@ -23,7 +24,7 @@ export function Study(){
 
             <div className='study-course'>
                 <a href="https://www.fiap.com.br/"><img className='icon-study' src='https://image.winudf.com/v2/image1/YnIuY29tLmZpYXAuZmlhcHBfaWNvbl8xNTg1NjU3Njc0XzAzMA/icon.png?w=184&fakeurl=1' alt='icon'/></a>
-                <h2>CIBERSECURITY</h2>
+                <h2>CYBERSECURITY</h2>
                 <ButtonStudy link='https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/85737/48fc29c71ee1358310c24df6a67937c9/certificado.png' alt='Certificado' label='Certificate'/>
             </div>
 
@@ -61,6 +62,12 @@ export function Study(){
                 <a href="https://www.microsoft.com/pt-br/"><img className='icon-study' alt='icon' src={micro}/></a>
                 <h2>Microsoft Certified: Azure Az-900</h2>
                 <ButtonStudy link='https://www.credly.com/badges/2934ef74-a1ec-478b-b883-441b8c3887d8/linked_in_profile' alt='Certificado' label='Certificate'/>
+            </div>
+
+            <div className='study-course'>
+                <a href="https://www.sentinelone.com/"><img className='icon-study' alt='icon' src={sentinelone}/></a>
+                <h2>Getting Started With SentinelOne</h2>
+                <ButtonStudy link='https://www.linkedin.com/feed/update/urn:li:activity:7144129402912636928/' alt='Certificado' label='Certificate'/>
             </div>
 
             <div className='study-course'>
