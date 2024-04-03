@@ -12,7 +12,25 @@ export function Experiencias() {
                 <div className="title-projetos-app">
                     <h2>Experiences</h2>
                 </div>
-                <div className="text-projetos-app">
+                <div className="text-projetos-app text-invert">
+                <dl className="descrição-projeto-app">
+                        <dt><h1>Cyber Security Analyst</h1></dt>
+                        <dd>
+                            <h3>Start: Fav/2024 | Currently</h3>
+                            <p>Management of Trend tools (Trend Vision One, Cloud One, APEX One) for efficiency and security.</p>
+                            <p>Responsible for client security, including vulnerability management, risk analysis, and incident response.</p>
+                            <p>Consultation and reporting of relevant CVEs, identification and reporting of password leaks, <br></br> as well as coordination of immediate actions in case of cyber attacks.</p>
+                            <p>Coordination of antiphishing campaigns to protect clients against cyber threats.</p>
+                            <p>Partnership with the AXUR team to detect and mitigate domain fraud.</p>
+                            <p>Development and implementation of Python and Shellscript scripts for operational efficiency.</p>
+                        </dd> 
+                        
+                        <ButtonProjetos label="Company" link="https://skyone.solutions/en"/>
+                    </dl>
+                    <img className="imagem-projeto-app" src="https://media.licdn.com/dms/image/C4D0BAQGSVh9_v_1c4g/company-logo_200_200/0/1649075284899/securewayit_logo?e=1720051200&v=beta&t=LJCwCjQw2JmyoebMwZdGN7yl-9Cq2X66Heni1ZEHspE" alt="Logo-projeto"/>
+                </div>
+
+                <div className="text-projetos-app text-inverttext-invert">
                     <img className="imagem-projeto-app" src="https://media.licdn.com/dms/image/D4D0BAQHRciBaw8TTxw/company-logo_200_200/0/1697757820229/skyonesolutions_logo?e=2147483647&v=beta&t=2mAdtce771RtA1ggpb-UirW1lUBAjLDyURE-FssJAzI" alt="Logo-projeto"/>
                     <dl className="descrição-projeto-app">
                         <dt><h1>Cyber Security Analyst</h1></dt>
@@ -51,7 +69,7 @@ export function Experiencias() {
                     <img className="imagem-projeto-app" src={demetra } alt="Logo-projeto"/>
                 </div>
 
-                <div className="text-projetos-app">
+                <div className="text-projetos-app ">
                     <img className="imagem-projeto-app" src={newtech} alt="Logo-projeto"/>
                     <dl className="descrição-projeto-app">
                         <dt><h1>Technical Support Analyst</h1></dt>

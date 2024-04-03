@@ -36,7 +36,7 @@ export function Header() {
                 </header>
                 <section className='information-app'>
                 <div className='title-app'>
-                    <h1>Giovanni Medeiros</h1>
+                    <h1 translate='no'>Giovanni Medeiros</h1>
                     <h2>Cyber Security Analyst</h2>
                 </div>
                 <img src={gmimagem} className="my-photo" alt="logo" />

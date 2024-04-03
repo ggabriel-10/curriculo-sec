@@ -61,7 +61,7 @@
     padding-bottom: 10px;
 }
 
-@media (max-width: 896px) {
+@media (max-width: 800px) {
     .text-projetos-app{
         display: flex;
         flex-direction: column;
@@ -91,7 +91,7 @@
         flex-direction: column;
         justify-content: center;
         padding-top: 70vh;
-        height: 130vh;
+        height: 250vh;
     }
     .descrição-projeto-app dd{
         height: 100%;
