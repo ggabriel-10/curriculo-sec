@@ -80,7 +80,7 @@ export function Experiencias() {
                             <p>Proficient in Microsoft operating systems (Windows, Windows Server) and Linux </p>
                             <p>Active Directory management </p>
                             <p>Routine backup monitoring </p>
-                            <p>Fundamentals of CybersecurityWorked</p>
+                            <p>Fundamentals of Cybersecurity</p>
                         
                         </dd> 
                         
