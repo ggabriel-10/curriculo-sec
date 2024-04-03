@@ -25,7 +25,7 @@ export function Experiencias() {
                             <p>Development and implementation of Python and Shellscript scripts for operational efficiency.</p>
                         </dd> 
                         
-                        <ButtonProjetos label="Company" link="https://skyone.solutions/en"/>
+                        <ButtonProjetos label="Company" link="https://secureway.com.br/"/>
                     </dl>
                     <img className="imagem-projeto-app" src="https://media.licdn.com/dms/image/C4D0BAQGSVh9_v_1c4g/company-logo_200_200/0/1649075284899/securewayit_logo?e=1720051200&v=beta&t=LJCwCjQw2JmyoebMwZdGN7yl-9Cq2X66Heni1ZEHspE" alt="Logo-projeto"/>
                 </div>
