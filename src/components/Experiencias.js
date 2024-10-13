@@ -23,15 +23,16 @@ export function Experiencias() {
                             <p>Coordination of antiphishing campaigns to protect clients against cyber threats.</p>
                             <p>Partnership with the AXUR team to detect and mitigate domain fraud.</p>
                             <p>Development and implementation of Python and Shellscript scripts for operational efficiency.</p>
+                            <p>Performing pentests on web applications and firewalls.</p>
                         </dd> 
                         
                         <ButtonProjetos label="Company" link="https://secureway.com.br/"/>
                     </dl>
-                    <img className="imagem-projeto-app" src="https://media.licdn.com/dms/image/C4D0BAQGSVh9_v_1c4g/company-logo_200_200/0/1649075284899/securewayit_logo?e=1720051200&v=beta&t=LJCwCjQw2JmyoebMwZdGN7yl-9Cq2X66Heni1ZEHspE" alt="Logo-projeto"/>
+                    <img className="imagem-projeto-app" src="https://media.licdn.com/dms/image/v2/C4D0BAQGSVh9_v_1c4g/company-logo_200_200/company-logo_200_200/0/1649075284899/securewayit_logo?e=2147483647&v=beta&t=1VoiKvPZD7CslNX6giVGg_QTtQYfCL0CpbUu2y37_Co" alt="Logo-projeto"/>
                 </div>
 
                 <div className="text-projetos-app text-inverttext-invert">
-                    <img className="imagem-projeto-app" src="https://media.licdn.com/dms/image/D4D0BAQHRciBaw8TTxw/company-logo_200_200/0/1697757820229/skyonesolutions_logo?e=2147483647&v=beta&t=2mAdtce771RtA1ggpb-UirW1lUBAjLDyURE-FssJAzI" alt="Logo-projeto"/>
+                    <img className="imagem-projeto-app" src={skyone} alt="Logo-projeto"/>
                     <dl className="descrição-projeto-app">
                         <dt><h1>Cyber Security Analyst</h1></dt>
                         <dd>

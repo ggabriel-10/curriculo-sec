@@ -1,6 +1,5 @@
 import './certificados.css';
 import azure from '../image/microsoft-certified-azure-fundamentals.png';
-import fortnet from '../image/3-associate-logo.png';
 import oracle from '../image/OCIF2023CA-removebg-preview.png';
 
 export function Certificados(){
